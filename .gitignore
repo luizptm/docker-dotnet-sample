@@ -1,2 +1,5 @@
 db/
 compose.yaml
+.vs/
+**/obj/
+**/bin/
